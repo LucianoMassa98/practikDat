@@ -1,0 +1,10 @@
+#python -m venv venv
+#source venv/Scripts/activate
+#pip install -r requirements.txt
+fastapi
+uvicorn
+yfinance
+psycopg2-binary
+apscheduler
+dotenv
+#uvicorn main:app --reload
